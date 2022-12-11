@@ -1,5 +1,6 @@
 # Jetson-Images
 
+# Jetson Nano 4GB (b01)
 ## USB-stick versions
 
 updated and optimized original nvidia image: [TODO]
