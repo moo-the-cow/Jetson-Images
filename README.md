@@ -13,3 +13,13 @@ custom belabox: [TODO]
 updated and optimized original nvidia image: [TODO]
 
 custom belabox: [TODO]
+
+
+
+for USB
+
+in order to use the full diskspace of the usb drive you'd have to connect via ssh and install some resizing tools via:
+
+`sudo apt-get install cloud-guest-utils`
+
+and then resize it typing `sudo growpart /dev/sda 1` and `sudo resize2fs /dev/sda1` until I automate it
