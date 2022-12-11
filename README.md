@@ -14,9 +14,9 @@ updated and optimized original nvidia image: [TODO]
 
 custom belabox: [TODO]
 
+___________
 
-
-for USB
+## Instructions for USB
 
 in order to use the full diskspace of the usb drive you'd have to connect via ssh and install some resizing tools via:
 
