@@ -13,7 +13,7 @@ custom belabox: [TODO]
 
 updated and optimized original nvidia image: [TODO]
 
-custom belabox: [TODO]
+custom belabox: https://drive.google.com/file/d/1_dteigIkHAODQIwnMXvJe0tHclIGMFBv/view?usp=sharing
 
 ___________
 
