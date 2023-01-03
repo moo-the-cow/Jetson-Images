@@ -9,7 +9,7 @@ original belabox: https://drive.google.com/file/d/10Fol2biBA26GXkC1gtgkuQ-0ViBhB
 
 custom belabox: [TODO]
 
-## SD-card versions
+## SD-card versions (automatic resizing implemented)
 
 updated and optimized original nvidia image: [TODO]
 
